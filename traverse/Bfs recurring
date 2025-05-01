@@ -10,7 +10,7 @@ def bfs(graph, start):
             print(node, end=" ")
             visited.add(node)
             queue.extend(graph[node] - visited)
-
+#tree
 graph = {
     'A': {'B', 'C'},
     'B': {'A', 'D', 'E'},

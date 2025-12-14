@@ -5,4 +5,4 @@ def pyramid(rows):
 # Example: Print a pyramid with 5 rows
 rows = int(input("Enter the number of rows: "))
 pyramid(rows)
-#py
+#pyramid
